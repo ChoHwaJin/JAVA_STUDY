@@ -13,8 +13,6 @@ public class PrimitiveTypeEx {
 		System.out.println("빌게이츠의 재산: " + billWealth);
 		System.out.println("원주율 값: " + pi);
 		System.out.println("위의 값이 맞나요?: " + isRight);
-				
-
 	}
 
 }
